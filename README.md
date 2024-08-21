@@ -1,0 +1,1 @@
+"Analyzed music store sales data using SQL to identify top customers and high-revenue cities, improving targeted marketing. Evaluated regional customer preferences to determine popular genres, aiding strategic planning. Developed KPI reports to monitor performance and support data-driven business growth."
